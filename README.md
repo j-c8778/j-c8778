@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @j-campbell8778
-- 👀 I’m interested in learning about open-source projects, growing my skills, and working within a community.
+- 👋 Hi, I’m Jessie, @j-campbell8778
+- 👀 I’m interested in learning about open-source projects, growing my skills, and working within a community to make things better for everyone.
 - 🌱 I’m currently learning secure software development, I have some experience in Java, Python, C#, and am slowly moving into C++.
 - 💞️ I’m looking to collaborate on open-source projects that benefit communites at any level.
 - 📫 How to reach me here on github (currently). I may have more contact information later as I learn here on github.
